@@ -8,6 +8,7 @@ import java.io.Serializable;
  * @author zhangcs
  * @since 1.0
  */
+@SuppressWarnings("unused")
 public class Rename implements Serializable {
 
     /**
